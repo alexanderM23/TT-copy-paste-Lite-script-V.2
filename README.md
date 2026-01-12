@@ -3,7 +3,7 @@
 > **TL;DR:** A minimalist AutoHotkey script for Copy/Paste. Remaps `Tab` + `1/2/4` to `Ctrl+C/V/A`. Designed for zero learning curve and one-handed operation.
 
 ## ⚡ What is the "Lite" Version?
-This is a stripped-down version of the full [TanTadiTaz script](LINK_TO_FULL_REPO_IF_EXISTS).
+This is a stripped-down version of the full [TanTadiTaz script](https://github.com/alexanderM23/autohotkey-copy-paste-tantadtaz).
 While the original script turns the entire keyboard into a navigation grid, **Lite v.2** focuses strictly on the 5 most used commands.
 
 **Why use Lite?**
