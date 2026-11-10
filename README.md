@@ -1,6 +1,18 @@
 # TT-copy-paste Lite v.2
 
-> **TL;DR:** A minimalist AutoHotkey script for Copy/Paste. Remaps `Tab` + `1/2/4` to `Ctrl+C/V/A`. Designed for zero learning curve and one-handed operation.
+> A minimalist AutoHotkey script for Copy/Paste. Remaps `Tab` + `1/2/4` to `Ctrl+C/V/A`. Designed for zero learning curve and one-handed operation.
+
+## 👀 A concept picture (not part of the script)
+
+<p align="center"><img src="docs/tab-lock.gif" alt="Concept animation: a Tab key held down, the top row turns into Copy, Paste, Cut, Select All" width="720"></p>
+
+<p align="center"><sub>A concept animation. It is not a recording of the script.</sub></p>
+
+The script itself is simple: you hold `Tab` with your own finger and tap a number. `Tab` + `1` is Copy. You don't need a clamp, extra buttons or any hardware, just the `.ahk` file.
+
+The picture above is a different thing. While I was thinking about this idea I sketched a concept keyboard where a small mechanical clamp holds `Tab` down, so the top row stays switched to Copy, Paste, Cut and Select All. Lite has no Cut (`Tab` + `3` is off on purpose), so the drawing shows a bit more than this script does. I made it because a table of hotkeys is dull to read, and it's easier to picture the idea when you can see the keys move.
+
+It's only a prototype drawing. Nothing like it ships with this repo, and there is no device you can buy or touch. If you want to build real key movements on the same idea, go for it, but that is a separate project.
 
 ## ⚡ What is the "Lite" Version?
 This is a stripped-down version of the full [TanTadiTaz script](https://github.com/alexanderM23/autohotkey-copy-paste-tantadtaz).
